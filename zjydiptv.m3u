@@ -1,5 +1,5 @@
 #EXTM3U										
-#EXTINF:-1  tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道 ,CCTV1										
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合										
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8										
 #EXTINF:-1  tvg-logo=CCTV-2.png tvg-name=CCTV2 group-title=央视频道 ,CCTV-2										
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/1000.m3u8										
