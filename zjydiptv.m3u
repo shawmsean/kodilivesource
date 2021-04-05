@@ -49,7 +49,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/78052125.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229328/78602057.smil/index.m3u8
 #EXTINF:-1  tvg-logo=IHOT-爱院线.png tvg-name=IHOT-爱院线 group-title=IHOT系列 ,IHOT-爱院线
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/133451219.smil/index.m3u8
-#EXTINF:-1  tvg-logo=茶频道.png tvg-name=茶频道 group-title=其它频道 ,茶频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" tvg-id="6585" tvg-name="茶频道" group-title="数字付费",中数茶频道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/80670192.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" tvg-id="6606" tvg-name="四海钓鱼" group-title="数字付费",北广四海钓鱼
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662/60366869.smil/index.m3u8
@@ -65,17 +65,17 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/42613464.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="69" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/42613591.smil/index.m3u8
-#EXTINF:-1  tvg-logo=少儿动漫HD.png tvg-name=少儿动漫HD group-title=HD系列 ,少儿动漫HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" tvg-id="6639" tvg-name="少儿动漫" group-title="数字付费",华数少儿动漫
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/42613922.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" tvg-id="6010" tvg-name="嘉佳卡通" group-title="地方台",嘉佳卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/59463357.smil/index.m3u8
-#EXTINF:-1  tvg-logo=欧美影院HD.png tvg-name=欧美影院HD group-title=HD系列 ,欧美影院HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" tvg-id="6650" tvg-name="欧美影院" group-title="数字付费",华数欧美影院
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8
 #EXTINF:-1  tvg-logo=亚洲影院HD.png tvg-name=亚洲影院HD group-title=HD系列 ,亚洲影院HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8
 #EXTINF:-1  tvg-logo=探索纪实HD.png tvg-name=探索纪实HD group-title=HD系列 ,探索纪实HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8
-#EXTINF:-1  tvg-logo=精品剧场HD.png tvg-name=精品剧场HD group-title=HD系列 ,精品剧场HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" tvg-id="6638" tvg-name="精品剧场" group-title="数字付费",华数精品剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/247557658.smil/index.m3u8
 #EXTINF:-1  tvg-logo=风尚音乐HD.png tvg-name=风尚音乐HD group-title=HD系列 ,风尚音乐HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/42330393.smil/index.m3u8
@@ -131,7 +131,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228294/42329198.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/42329883.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326/42329879.smil/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="71" tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330007.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="58" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228303/42329168.smil/index.m3u8
@@ -211,7 +211,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/133448347.smil/index.m3u8
 #EXTINF:-1  tvg-logo=CETV4.png tvg-name=CETV4 group-title=其它频道 ,CETV4
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
-#EXTINF:-1  tvg-logo=CCTV-5.png tvg-name=CCTV-5 group-title=央视频道 ,CCTV-5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8
