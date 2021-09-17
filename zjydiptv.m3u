@@ -193,7 +193,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229410/80671671.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",IHOT-爱历史
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BTV-KAKU少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BTV",BTV-KAKU少儿
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smil/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方台",优漫卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/42613464.smil/index.m3u8
