@@ -213,3 +213,13 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.sm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/247557658.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚音乐HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/42330393.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BTV",4K
+http://39.134.135.81:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BTV",IHOT-电影
+http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8?3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="WHTV5" group-title="BTV",IHOT-电视
+http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8?4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BTV",少儿
+http://39.134.134.88:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8?5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BTV",萌宠
+http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8?6
