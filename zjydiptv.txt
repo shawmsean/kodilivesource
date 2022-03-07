@@ -1,9 +1,9 @@
-央视,#genre#
+1央视,#genre#
 CCTV-1综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2财经,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/1000.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-3综艺,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-4中文国际,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/114276458.smil/1000.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV-5体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5体育,http://39.134.116.4:18890/PLTV/88888910/224/3221225622/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230734/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 CCTV-5+体育赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-6电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-7国防军事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/42329865.smil/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
